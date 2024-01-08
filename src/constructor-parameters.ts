@@ -20,3 +20,4 @@ const profile: Profile = ["Ham", 23];
 const ham = new Person(...profile);
 
 console.log(ham);
+console.log(ham);
